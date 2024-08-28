@@ -1,0 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 10 L01 Github Relate
+ZCZC W00 10 L02 Github Pages Related
