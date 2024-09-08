@@ -1,3 +1,3 @@
 # OS242
 
-|| [LINKS (LINKS/)] || [LOG] (TXT/mylog.txt) || [Github] (https://github.com/gracekarinn/os242)
+|| [LINKS] (links.md) || [LOG] (TXT/mylog.txt) || [Github] (https://github.com/gracekarinn/os242) ||
