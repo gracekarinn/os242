@@ -10,3 +10,5 @@ Week 1
 Week 2
 - [Protection and Security in Operating System](https://www.scaler.com/topics/protection-and-security-in-operating-system/#)---
   A website to help you understand protection and security in operating systems.
+- [Create Your Own Operation System]( https://medium.com/@mekaladahanayaka80/create-your-own-operating-system-a4b1c179c28f)---
+  This is a website that discusses the process of creating a basic operating system from scratch
