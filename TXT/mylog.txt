@@ -42,3 +42,13 @@ ZCZC W03 40 L05 Studying this week material
 ZCZC W03 60 L05 Trying popquiz
 ZCZC W03 30 L27 Backup SSH
 ZCZC W03 30 L09 Weekly Assignments
+ZCZC W04 90 L99 Nugas with my friends
+ZCZC W04 99 L02 Eighth Class
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 40 L05 Studying this week material
+ZCZC W04 20 L05 Quiz 03
+ZCZC W04 30 L27 Backup SSH
+ZCZC W04 30 L09 Reading Assignment 
+ZCZC W04 75 L09 Weekly Assignments
+ZCZC W04 60 L05 Trying popquiz
+ZCZC W04 40 L21 Trying Figma
