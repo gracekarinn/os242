@@ -18,3 +18,9 @@ Week 3
   A website to help you understand file system interface.
 - [FUSE](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/11_FileSystemInterface.html)---
   This is a website that discusses about FUSE
+
+Week 4
+- [ARRAYS AND STRINGS](https://www.sathyabama.ac.in/sites/default/files/course-material/2020-10/UNIT-3_0.pdf)---
+  A website that can help you to understand string and arrays esp in c language.
+- [Pointer related](https://www.programiz.com/c-programming/c-pointers)---
+  This is a website that discusses about pointer
