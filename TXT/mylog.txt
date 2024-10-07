@@ -52,3 +52,10 @@ ZCZC W04 30 L09 Reading Assignment
 ZCZC W04 75 L09 Weekly Assignments
 ZCZC W04 60 L05 Trying popquiz
 ZCZC W04 40 L21 Trying Figma
+ZCZC W05 40 L05 Studying this week material
+ZCZC W05 20 L05 Quiz 04
+ZCZC W05 99 L09 Weekly Assignments
+ZCZC W05 90 L99 Nugas with my friends
+ZCZC W05 40 L09 Weekly Assignments again
+ZCZC W05 30 L80 Watching video os related
+ZCZC W05 60 L05 Trying popquiz
