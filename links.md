@@ -28,3 +28,7 @@ Week 4
 WEEK 5
 - [Allocation of Frames in OS](https://www.javatpoint.com/allocation-of-frames-in-os)---
   This is a website that discusses about main memory.
+
+WEEK 6
+- [Process Synchronisation and Deadlocks](https://humphryscomputing.com/Notes/OS/synch.html)---
+  This is a website that discusses about process synchronisation and deadlocks
