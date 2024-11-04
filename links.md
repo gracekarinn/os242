@@ -30,5 +30,11 @@ WEEK 5
   This is a website that discusses about main memory.
 
 WEEK 6
+- [Threads and Concurrency](https://www.omscs-notes.com/operating-systems/threads-and-concurrency/)---
+  This is a website that discusses further about threads and concurrency
+
+WEEK 7
 - [Process Synchronisation and Deadlocks](https://humphryscomputing.com/Notes/OS/synch.html)---
   This is a website that discusses about process synchronisation and deadlocks
+- [Avoid Synchronization Deadlocks](https://www.infoworld.com/article/2160986/avoid-synchronization-deadlocks.html)---
+  An interesting website that explains about how to avoid synchronization deadlocks
