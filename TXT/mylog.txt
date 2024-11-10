@@ -80,5 +80,13 @@ ZCZC W07 30 L05 Studying this week material
 ZCZC W07 20 L05 Quiz 06
 ZCZC W07 99 L09 Weekly Assignments
 ZCZC W07 90 L05 Trying popquiz
+ZCZC W08 99 L09 Eleventh Class
+ZCZC W08 90 L99 Nugas with my friends
+ZCZC W08 99 L09 Weekly Assignments
+ZCZC W08 30 L27 Backup SSH
+ZCZC W08 30 L05 Studying this week material
+ZCZC W08 20 L05 Quiz 07
+ZCZC W08 99 L09 Weekly Assignments
+ZCZC W08 90 L05 Trying popquiz
 
 
