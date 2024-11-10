@@ -38,3 +38,8 @@ WEEK 7
   This is a website that discusses about process synchronisation and deadlocks
 - [Avoid Synchronization Deadlocks](https://www.infoworld.com/article/2160986/avoid-synchronization-deadlocks.html)---
   An interesting website that explains about how to avoid synchronization deadlocks
+
+
+WEEK 8
+- [Process Schedulers in Operating System](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)---
+  This is a website that discusses about process schedulers in operating system
